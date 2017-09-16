@@ -1,0 +1,8 @@
+GPATH
+GRTAGS
+GTAGS
+flycheck*.plist
+*.s
+*.o
+*.out
+compile_commands.json
