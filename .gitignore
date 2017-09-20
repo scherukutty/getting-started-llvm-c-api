@@ -6,3 +6,5 @@ flycheck*.plist
 *.o
 *.out
 compile_commands.json
+*.ll
+*.bc
